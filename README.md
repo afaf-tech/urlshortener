@@ -17,5 +17,5 @@ This project was inspired by bit.ly url-shortner functionality, this platform cr
 
 **Previews:**
 <p align="center">
-  <img src="https://ibb.co/7zMskvq" />
+  <a href="https://ibb.co/7zMskvq"><img src="https://i.ibb.co/26VGZqT/urlshortener.png" alt="urlshortener" border="0"></a>
 </p>
